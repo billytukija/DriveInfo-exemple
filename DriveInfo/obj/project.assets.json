@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\billy.richard\\Documents\\GitHub\\DriveInfo\\DriveInfo\\DriveInfo.csproj",
+      "projectUniqueName": "C:\\Users\\billy.richard\\Documents\\GitHub\\DriveInfo-exemple\\DriveInfo\\DriveInfo.csproj",
       "projectName": "DriveInfo",
-      "projectPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\DriveInfo\\DriveInfo\\DriveInfo.csproj",
+      "projectPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\DriveInfo-exemple\\DriveInfo\\DriveInfo.csproj",
       "packagesPath": "C:\\Users\\billy.richard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\DriveInfo\\DriveInfo\\obj\\",
+      "outputPath": "C:\\Users\\billy.richard\\Documents\\GitHub\\DriveInfo-exemple\\DriveInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
