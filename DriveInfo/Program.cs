@@ -13,6 +13,7 @@ namespace DriveInfos
             {
                 Console.WriteLine("Name : " + drive.Name);
                 Console.WriteLine("Total Size : " + drive.TotalSize);
+
                 Console.WriteLine("Total Free Space : " + drive.TotalFreeSpace);
                 Console.WriteLine("Drive Type : " + drive.DriveType);
 
