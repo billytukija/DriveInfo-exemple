@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\bin\Debug\netcoreapp3.0\DriveInfo.exe
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\bin\Debug\netcoreapp3.0\DriveInfo.deps.json
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\bin\Debug\netcoreapp3.0\DriveInfo.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\bin\Debug\netcoreapp3.0\DriveInfo.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\bin\Debug\netcoreapp3.0\DriveInfo.dll
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\bin\Debug\netcoreapp3.0\DriveInfo.pdb
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\obj\Debug\netcoreapp3.0\DriveInfo.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\obj\Debug\netcoreapp3.0\DriveInfo.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\obj\Debug\netcoreapp3.0\DriveInfo.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\obj\Debug\netcoreapp3.0\DriveInfo.dll
+C:\Users\billy.richard\Documents\GitHub\DriveInfo\DriveInfo\obj\Debug\netcoreapp3.0\DriveInfo.pdb
